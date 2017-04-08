@@ -1,0 +1,9 @@
+Documento para votación en línea.
+
+Postulantes para presidentes:
+
+- Pepito    1
+- Pedro     2
+- Juan      3
+
+Hiroshi -> 1
